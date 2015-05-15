@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>talos_torso_controller</name>
+  <version>0.0.0</version>
+  <description>The talos_torso_controller package</description>
+
+  <maintainer email="noobaca2@gmail.com">Devon Ash</maintainer>
+
+  <license>BSD</license>
+
+  <author email="noobaca2@gmail.com">Devon Ash</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
